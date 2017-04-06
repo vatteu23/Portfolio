@@ -1,0 +1,54 @@
+[{
+    "name":"Contact Directory",
+    "description":"Contact Directory using Angularjs 1.6 services and directives.",
+    "link":"https://github.com/vatteu23/Directory"
+  },
+    {
+    "name":"Notes",
+    "description":"Android application to save notes using android studio and SQLite.",
+    "link":"https://github.com/vatteu23/Notes"
+  },
+    {
+    "name":"Todo List",
+    "description":"Application for 3 mobile platforms(Android/iOS,Windows) using phonegap, jQuery, local storage to save Todo list.",
+    "link":"https://github.com/vatteu23/TodoList"
+  },
+    {
+    "name":"Master Detail App",
+    "description":"Application for iOS with Master detail view using JSON data of chicago white sox.",
+    "link":"https://github.com/vatteu23/MasterDetailApp"
+  },
+    {
+    "name":"Image Slider",
+    "description":"Image slider using jQuery for web applications",
+    "link":"https://github.com/vatteu23/ImageSlider"
+  },
+    {
+    "name":"jQueryMobile Template",
+    "description":"One page mobile web application template with jQuery Mobile using UI/UX elements.",
+    "link":"https://github.com/vatteu23/jQuery-Mobile-Template"
+  },
+    {
+    "name":"git Profile finder",
+    "description":"Find github profile based on user name using Javascript and AJAX",
+    "link":"https://github.com/vatteu23/gitProfileFinder"
+  },
+    {
+    "name":"bootstrap theme",
+    "description":"Responsive Web Application template using BootStrap",
+    "link":"https://github.com/vatteu23/bootstrapTemplate"
+  },
+    {
+    "name":"Local Storage",
+    "description":"MyNotes web page using HTML5 local Storage",
+    "link":"https://github.com/vatteu23/bootstrapTemplate"
+  },
+    {
+    "name":"7E Captures",
+    "description":"A smooth interface using jQuery, javascript, fancybox that provides a user to know about the Events and Works of the Photography team",
+    "link":"https://github.com/vatteu23/7E-Captures"
+  }]
+    
+    
+    
+    

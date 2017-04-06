@@ -1,0 +1,67 @@
+<style>
+
+    .more{
+        margin-left: 50px;
+    }
+
+</style>
+
+
+<section class="projectlist">
+    
+    <div class="container">
+    
+    <div class="row">
+    <div class="col-md-4"></div>
+        
+    <div class="col-md-4">
+        
+    <a href="#/Projects">
+    <button type="button" class="more btn btn-info">
+      <span class="glyphicon glyphicon-menu-up"></span> Less Projects
+    </button>
+    </a>
+    </div>
+        
+    <div class="col-md-4"></div>
+  
+    
+    </div>
+        
+        
+    <br>
+    <br>
+    <br>
+        
+        
+        
+    <div class="form-group">
+    
+    
+    <input ng-model="query" placeholder="Search for projects" class="form-control" autofocus>
+    <br>
+    <br>
+    <br>
+        
+    <ul class="projectlist list-group">
+    <li class="project cf list-group-item justify-content-between" ng-repeat="item in projects | filter: query">
+      <a href="{{item.link}}" target="_blank">
+        
+          <h4>{{item.name}}</h4> </a>
+          <h6>{{item.description}}</h6>
+        
+      
+    </li>
+  </ul> 
+    
+    </div>
+    
+        
+
+        
+        
+</div>
+
+
+
+</section>

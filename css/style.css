@@ -1,0 +1,48 @@
+body{
+    font-family: Verdana;
+}
+
+.container {
+margin-top: 20px;
+}
+
+/*
+.img-circle{
+   border: black solid 1px;
+}
+*/
+
+/* Custom page header */
+.header {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e5e5e5;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  
+}
+
+.logo{
+    height: 40px;
+    width: 55px;
+    margin-right: 350px;
+}
+
+.footer {
+    position: fixed;
+    height: 30px;
+    border-top: black solid 1px;
+    bottom: 10px;
+    
+   
+}
+
+.gif{
+    height: 30px;
+    width: 30px;
+}
+
+
